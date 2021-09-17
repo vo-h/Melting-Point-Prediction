@@ -1,6 +1,6 @@
 # Melting-Point-Prediction
 
-This project aims to predict the melting point of a given organic molecule. I plan to try out both traditional machine learning approaches (PyCaret) and neural networks (Deep Chem).
+This project aims to predict the melting point of a given organic molecule. I plan to try out both traditional machine learning approaches (PyCaret) and neural networks (Torch Drug).
 
 ## data
 
